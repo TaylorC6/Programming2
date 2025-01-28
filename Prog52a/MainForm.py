@@ -159,8 +159,8 @@ class MainForm(Form):
 
 
     def Button1Click(self, sender, e):
-        l = int(self._textBox1.Text)
-        w = int(self._textBox2.Text)
+        l = float(self._textBox1.Text)
+        w = float(self._textBox2.Text)
         a = l * w
         p = l * 2 + w * 2
         self._label5.Text = str(a)
