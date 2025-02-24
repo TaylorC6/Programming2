@@ -35,6 +35,7 @@ class MainForm(Form):
         self._button1.TabIndex = 0
         self._button1.Text = "Show"
         self._button1.UseVisualStyleBackColor = False
+        self._button1.Click += self.Button1Click
         # 
         # button2
         # 
@@ -46,6 +47,7 @@ class MainForm(Form):
         self._button2.TabIndex = 1
         self._button2.Text = "Clear"
         self._button2.UseVisualStyleBackColor = False
+        self._button2.Click += self.Button2Click
         # 
         # button3
         # 
@@ -57,6 +59,7 @@ class MainForm(Form):
         self._button3.TabIndex = 2
         self._button3.Text = "Exit"
         self._button3.UseVisualStyleBackColor = False
+        self._button3.Click += self.Button3Click
         # 
         # radioButton1
         # 
@@ -69,7 +72,7 @@ class MainForm(Form):
         self._radioButton1.TabStop = True
         self._radioButton1.Text = "Daytime"
         self._radioButton1.UseVisualStyleBackColor = False
-        self._radioButton1.CheckedChanged += self.RadioButton1CheckedChanged
+
         # 
         # radioButton2
         # 
@@ -82,7 +85,7 @@ class MainForm(Form):
         self._radioButton2.TabStop = True
         self._radioButton2.Text = "Evening"
         self._radioButton2.UseVisualStyleBackColor = False
-        self._radioButton2.CheckedChanged += self.RadioButton2CheckedChanged
+
         # 
         # radioButton3
         # 
@@ -95,7 +98,7 @@ class MainForm(Form):
         self._radioButton3.TabStop = True
         self._radioButton3.Text = "Off-Peak"
         self._radioButton3.UseVisualStyleBackColor = False
-        self._radioButton3.CheckedChanged += self.RadioButton3CheckedChanged
+
         # 
         # textBox1
         # 
@@ -164,7 +167,7 @@ class MainForm(Form):
         self._label6.Name = "label6"
         self._label6.Size = System.Drawing.Size(434, 34)
         self._label6.TabIndex = 12
-        self._label6.Text = "(6:00 a.m. through 5:59 P.M.)      $0.07"
+        self._label6.Text = "(6:00 p.m. through 11:59 P.M.)    $0.12"
         # 
         # label7
         # 
@@ -174,7 +177,7 @@ class MainForm(Form):
         self._label7.Name = "label7"
         self._label7.Size = System.Drawing.Size(434, 34)
         self._label7.TabIndex = 13
-        self._label7.Text = "(6:00 a.m. through 5:59 P.M.)      $0.07"
+        self._label7.Text = "(12:00 a.m. through 5:59 A.M.)    $0.05"
         # 
         # MainForm
         # 
@@ -202,3 +205,27 @@ class MainForm(Form):
 
     def Label4Click(self, sender, e):
         pass
+
+    def Button1Click(self, sender, e):
+        price = 0.0
+        if self._radioButton1.Checked == True:
+            price = 0.07
+        elif self._radioButton2.Checked == True:
+            price = 0.12
+        elif self._radioButton3.Checked == True:
+            price = 0.05
+        else:
+            MessageBox.Show("No. Select time dummy.")
+            return
+        mins = int(self._textBox1.Text)
+        self._label3.Text = "$ %.2f" % (mins * price)
+
+    def Button2Click(self, sender, e):
+        self._textBox1.Text = ""
+        self._label3.Text = ""
+        self._radioButton1.Checked = False
+        self._radioButton2.Checked = False
+        self._radioButton3.Checked = False
+
+    def Button3Click(self, sender, e):
+        Application.Exit()

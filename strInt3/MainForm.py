@@ -99,13 +99,13 @@ class MainForm(Form):
         self._label3.Text = ""
         word = str(self._textBox1.Text)
         sub = 0
+        ans = ""
         for i in range(len(word)):
-            letter = word[i]
-            int = word.rfind(letter)
-            if int == -1:
+            if word.rfind(word[i]) == i:
+                ans = word[i]
                 break
-        if word[i] == word[int]:
-            self._label3.Text = letter
+        self._label3.Text = str(ans)
 
     def Button2Click(self, sender, e):
         self._label3.Text = ""
+        self._textBox1.Text = ""
