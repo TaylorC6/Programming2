@@ -55,7 +55,6 @@ class WheelSets(Form):
         self._radioButton3.TabStop = True
         self._radioButton3.Text = "58 mm $24"
         self._radioButton3.UseVisualStyleBackColor = False
-        self._radioButton3.CheckedChanged += self.RadioButton3CheckedChanged
         # 
         # radioButton2
         # 
@@ -69,7 +68,6 @@ class WheelSets(Form):
         self._radioButton2.TabStop = True
         self._radioButton2.Text = "55 mm $22"
         self._radioButton2.UseVisualStyleBackColor = False
-        self._radioButton2.CheckedChanged += self.RadioButton2CheckedChanged
         # 
         # radioButton1
         # 
@@ -83,7 +81,6 @@ class WheelSets(Form):
         self._radioButton1.TabStop = True
         self._radioButton1.Text = "51 mm $20"
         self._radioButton1.UseVisualStyleBackColor = False
-        self._radioButton1.CheckedChanged += self.RadioButton1CheckedChanged
         # 
         # label1
         # 
@@ -127,10 +124,15 @@ class WheelSets(Form):
     def Button5Click(self, sender, e):
         self.myparent.Show()
         self.Hide()
-        
+        if self._radioButton1.Checked:
+            self.myparent.price += 20
+        if self._radioButton2.Checked:
+            self.myparent.price += 22
+        if self._radioButton3.Checked:
+            self.myparent.price += 24
+        if self._radioButton4.Checked:
+            self.myparent.price += 28
+        else:
+            pass
 
 
-
-
-    def RadioButton1CheckedChanged(self, sender, e):
-        pass
