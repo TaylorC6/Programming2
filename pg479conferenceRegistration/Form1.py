@@ -11,27 +11,14 @@ class Form1(Form):
         self.InitializeComponent()
     
     def InitializeComponent(self):
-        self._button3 = System.Windows.Forms.Button()
         self._button2 = System.Windows.Forms.Button()
         self._label1 = System.Windows.Forms.Label()
         self._label2 = System.Windows.Forms.Label()
         self._checkBox1 = System.Windows.Forms.CheckBox()
         self._checkBox2 = System.Windows.Forms.CheckBox()
         self._comboBox1 = System.Windows.Forms.ComboBox()
+        self._button1 = System.Windows.Forms.Button()
         self.SuspendLayout()
-        # 
-        # button3
-        # 
-        self._button3.BackColor = System.Drawing.Color.DarkSeaGreen
-        self._button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        self._button3.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._button3.Location = System.Drawing.Point(376, 182)
-        self._button3.Name = "button3"
-        self._button3.Size = System.Drawing.Size(112, 33)
-        self._button3.TabIndex = 25
-        self._button3.Text = "Exit"
-        self._button3.UseVisualStyleBackColor = False
-        self._button3.Click += self.Button3Click
         # 
         # button2
         # 
@@ -80,6 +67,7 @@ class Form1(Form):
         self._checkBox1.TabIndex = 27
         self._checkBox1.Text = "Conference Registration: $895"
         self._checkBox1.UseVisualStyleBackColor = False
+        self._checkBox1.CheckedChanged += self.CheckBox1CheckedChanged
         # 
         # checkBox2
         # 
@@ -91,6 +79,7 @@ class Form1(Form):
         self._checkBox2.TabIndex = 28
         self._checkBox2.Text = "Opening Night Dinner and Keynote: $30"
         self._checkBox2.UseVisualStyleBackColor = False
+        self._checkBox2.CheckedChanged += self.CheckBox2CheckedChanged
         # 
         # comboBox1
         # 
@@ -98,21 +87,38 @@ class Form1(Form):
         self._comboBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         self._comboBox1.FormattingEnabled = True
         self._comboBox1.Items.AddRange(System.Array[System.Object](
-            ["Intro to "]))
+            ["Introduction to E-commerce $295",
+            "The Future of the Web $295",
+            "Advanced Visual Basic $395",
+            "Network Security $395"]))
         self._comboBox1.Location = System.Drawing.Point(282, 40)
         self._comboBox1.Name = "comboBox1"
         self._comboBox1.Size = System.Drawing.Size(207, 21)
         self._comboBox1.TabIndex = 29
+        self._comboBox1.SelectedIndexChanged += self.ComboBox1SelectedIndexChanged
+        # 
+        # button1
+        # 
+        self._button1.BackColor = System.Drawing.Color.DarkSeaGreen
+        self._button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        self._button1.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+        self._button1.Location = System.Drawing.Point(377, 182)
+        self._button1.Name = "button1"
+        self._button1.Size = System.Drawing.Size(112, 33)
+        self._button1.TabIndex = 30
+        self._button1.Text = "Exit"
+        self._button1.UseVisualStyleBackColor = False
+        self._button1.Click += self.Button1Click
         # 
         # Form1
         # 
         self.BackColor = System.Drawing.Color.SeaGreen
         self.ClientSize = System.Drawing.Size(523, 230)
+        self.Controls.Add(self._button1)
         self.Controls.Add(self._comboBox1)
         self.Controls.Add(self._checkBox2)
         self.Controls.Add(self._checkBox1)
         self.Controls.Add(self._label2)
-        self.Controls.Add(self._button3)
         self.Controls.Add(self._button2)
         self.Controls.Add(self._label1)
         self.Name = "Form1"
@@ -121,4 +127,48 @@ class Form1(Form):
 
 
     def Button2Click(self, sender, e):
-        pass
+        self._checkBox1.Checked = False
+        self._checkBox2.Checked = False
+        self._comboBox1.Text = ""
+
+    def Button1Click(self, sender, e):
+        self.myparent.Show()
+        self.Hide()
+        if self._checkBox1.Checked:
+            self.myparent.price += 895
+        if self._checkBox1.Checked:
+            self.myparent.price += 30
+        c = self._comboBox1.Text
+        if c == "Introduction to E-commerce $295":
+            self.myparent.price += 295
+        elif c == "The Future of the Web $295":
+            self.myparent.price += 295
+        elif c == "Advanced Visual Basic $395":
+            self.myparent.price += 395
+        elif c == "Network Security $395":
+            self.myparent.price += 395
+
+    def CheckBox1CheckedChanged(self, sender, e):
+#        self.myparent.price += 895
+#        self._label1.Text = str(self.myparent.price)
+         pass
+
+    def CheckBox2CheckedChanged(self, sender, e):
+#        self.myparent.price += 30
+#        self._label1.Text = str(self.myparent.price)
+         pass
+ 
+    def ComboBox1SelectedIndexChanged(self, sender, e):
+#        c = self._comboBox1.Text
+#        if c == "Introduction to E-commerce $295":
+#            self.myparent.price += 295
+#        elif c == "The Future of the Web $295":
+#            self.myparent.price += 295
+#        elif c == "Advanced Visual Basic $395":
+#            self.myparent.price += 395
+#        elif c == "Network Security $395":
+#            self.myparent.price += 395
+         pass
+        
+
+

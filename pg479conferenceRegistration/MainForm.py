@@ -7,6 +7,7 @@ from System.Windows.Forms import *
 class MainForm(Form):
     def __init__(self):
         self.InitializeComponent()
+        self.price = 0
     
     def InitializeComponent(self):
         self._label1 = System.Windows.Forms.Label()
@@ -248,6 +249,7 @@ class MainForm(Form):
         self._button1.TabIndex = 20
         self._button1.Text = "Select Conference Options"
         self._button1.UseVisualStyleBackColor = False
+        self._button1.Click += self.Button1Click
         # 
         # button2
         # 
@@ -304,6 +306,7 @@ class MainForm(Form):
         self.Controls.Add(self._label10)
         self.Name = "MainForm"
         self.Text = "pg479conferenceRegistration"
+        self.Load += self.MainFormLoad
         self.ResumeLayout(False)
         self.PerformLayout()
 
@@ -321,3 +324,12 @@ class MainForm(Form):
         self._textBox7.Text = ""
         self._textBox8.Text = ""
         self._label12.Text = ""
+
+    def Button1Click(self, sender, e):
+        from Form1 import *
+        Form1 = Form1(self)
+        Form1.Show()
+        self.Hide()
+
+    def MainFormLoad(self, sender, e):
+        self._label12.Text = str(self.price)
