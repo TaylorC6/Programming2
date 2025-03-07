@@ -136,7 +136,7 @@ class Form1(Form):
         self.Hide()
         if self._checkBox1.Checked:
             self.myparent.price += 895
-        if self._checkBox1.Checked:
+        if self._checkBox2.Checked:
             self.myparent.price += 30
         c = self._comboBox1.Text
         if c == "Introduction to E-commerce $295":
@@ -147,6 +147,7 @@ class Form1(Form):
             self.myparent.price += 395
         elif c == "Network Security $395":
             self.myparent.price += 395
+        self.myparent._label12.Text = str(self.myparent.price)
 
     def CheckBox1CheckedChanged(self, sender, e):
 #        self.myparent.price += 895
@@ -172,3 +173,7 @@ class Form1(Form):
         
 
 
+
+    def Button3Click(self, sender, e):
+#        self._label3.Text = str(self.myparent.price)
+        pass

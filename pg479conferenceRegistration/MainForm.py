@@ -330,6 +330,10 @@ class MainForm(Form):
         Form1 = Form1(self)
         Form1.Show()
         self.Hide()
+        self.price = 0
 
     def MainFormLoad(self, sender, e):
+        self._label12.Text = str(self.price)
+
+    def Button4Click(self, sender, e):
         self._label12.Text = str(self.price)
