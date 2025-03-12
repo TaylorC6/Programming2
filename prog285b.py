@@ -7,9 +7,9 @@ def main():
         with open("Langdat/prog285b.dat", 'r') as f:
             for line in f:
                 data = line.split(" ")
-                id = int(data[0])
-                code = int(data[1])
-                sales = int(data[2])
+                id = float(data[0])
+                code = float(data[1])
+                sales = float(data[2])
 
                 person = Salesperson(id, code, sales)
                 person.calc_commission()
@@ -24,7 +24,6 @@ def main():
 # id, code, sales = [float(x) for x in line.split(" ")]
 # Option 3: Conditional List Comprehension
 # id, code, sales = [float(x) if '.' in x else int(x) for x in line.split(" ")]
-
 
 
 if __name__ == "__main__":
