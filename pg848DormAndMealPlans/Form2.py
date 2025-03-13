@@ -6,7 +6,8 @@ from System.Drawing import *
 from System.Windows.Forms import *
 
 class Form2(Form):
-    def __init__(self):
+    def __init__(self, parent):
+        self.myparent = parent
         self.InitializeComponent()
     
     def InitializeComponent(self):

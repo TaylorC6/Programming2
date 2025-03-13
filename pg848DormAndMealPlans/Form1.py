@@ -6,7 +6,8 @@ from System.Drawing import *
 from System.Windows.Forms import *
 
 class Form1(Form):
-    def __init__(self):
+    def __init__(self, parent):
+        self.myparent = parent
         self.InitializeComponent()
     
     def InitializeComponent(self):
@@ -15,6 +16,7 @@ class Form1(Form):
         self._radioButton2 = System.Windows.Forms.RadioButton()
         self._radioButton3 = System.Windows.Forms.RadioButton()
         self._radioButton4 = System.Windows.Forms.RadioButton()
+        self._button3 = System.Windows.Forms.Button()
         self.SuspendLayout()
         # 
         # label1
@@ -86,10 +88,25 @@ class Form1(Form):
         self._radioButton4.UseVisualStyleBackColor = False
         self._radioButton4.CheckedChanged += self.RadioButton4CheckedChanged
         # 
+        # button3
+        # 
+        self._button3.BackColor = System.Drawing.Color.DarkSlateBlue
+        self._button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        self._button3.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+        self._button3.ForeColor = System.Drawing.Color.White
+        self._button3.Location = System.Drawing.Point(189, 228)
+        self._button3.Name = "button3"
+        self._button3.Size = System.Drawing.Size(125, 47)
+        self._button3.TabIndex = 30
+        self._button3.Text = "Calculator"
+        self._button3.UseVisualStyleBackColor = False
+        self._button3.Click += self.Button3Click
+        # 
         # Form1
         # 
         self.BackColor = System.Drawing.SystemColors.ActiveCaption
-        self.ClientSize = System.Drawing.Size(503, 236)
+        self.ClientSize = System.Drawing.Size(503, 283)
+        self.Controls.Add(self._button3)
         self.Controls.Add(self._radioButton4)
         self.Controls.Add(self._radioButton3)
         self.Controls.Add(self._radioButton2)
@@ -101,13 +118,26 @@ class Form1(Form):
 
 
     def RadioButton1CheckedChanged(self, sender, e):
+        self.myparent.price = 0
         self.myparent.price += 1500
+        self.myparent.label12.Text = str(self.myparent.price)
         
     def RadioButton2CheckedChanged(self, sender, e):
+        self.myparent.price = 0
         self.myparent.price += 1600
+        self.myparent.label12.Text = str(self.myparent.price)
 
     def RadioButton3CheckedChanged(self, sender, e):
+        self.myparent.price = 0
         self.myparent.price += 1200
+        self.myparent.label12.Text = str(self.myparent.price)
 
     def RadioButton4CheckedChanged(self, sender, e):
+        self.myparent.price = 0
         self.myparent.price += 1800
+        self.myparent.label12.Text = str(self.myparent.price)
+
+    def Button3Click(self, sender, e):
+        self.myparent.Show()
+        self.Hide()
+        

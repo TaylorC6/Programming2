@@ -7,6 +7,7 @@ from System.Windows.Forms import *
 class MainForm(Form):
     def __init__(self):
         self.price = 0
+        self.mealprice = 0
         self.InitializeComponent()
     
     def InitializeComponent(self):
