@@ -120,22 +120,22 @@ class Form1(Form):
     def RadioButton1CheckedChanged(self, sender, e):
         self.myparent.price = 0
         self.myparent.price += 1500
-        self.myparent.label12.Text = str(self.myparent.price)
+        self.myparent._label12.Text = str(self.myparent.mealprice + self.myparent.price)
         
     def RadioButton2CheckedChanged(self, sender, e):
         self.myparent.price = 0
         self.myparent.price += 1600
-        self.myparent.label12.Text = str(self.myparent.price)
+        self.myparent._label12.Text = str(self.myparent.mealprice + self.myparent.price)
 
     def RadioButton3CheckedChanged(self, sender, e):
         self.myparent.price = 0
         self.myparent.price += 1200
-        self.myparent.label12.Text = str(self.myparent.price)
+        self.myparent._label12.Text = str(self.myparent.mealprice + self.myparent.price)
 
     def RadioButton4CheckedChanged(self, sender, e):
         self.myparent.price = 0
         self.myparent.price += 1800
-        self.myparent.label12.Text = str(self.myparent.price)
+        self.myparent._label12.Text = str(self.myparent.mealprice + self.myparent.price)
 
     def Button3Click(self, sender, e):
         self.myparent.Show()
