@@ -47,58 +47,58 @@ class Form5(Form):
         # 
         # label5
         # 
-        self._label5.BackColor = System.Drawing.Color.RoyalBlue
+        self._label5.BackColor = System.Drawing.Color.FromArgb(192, 255, 255)
         self._label5.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._label5.ForeColor = System.Drawing.Color.White
-        self._label5.Location = System.Drawing.Point(2, 315)
+        self._label5.ForeColor = System.Drawing.Color.Black
+        self._label5.Location = System.Drawing.Point(5, 427)
         self._label5.Name = "label5"
         self._label5.Size = System.Drawing.Size(349, 47)
         self._label5.TabIndex = 29
-        self._label5.Text = "Surface temperature –50°C to 50°C"
+        self._label5.Text = "Surface temperature –220°C"
         # 
         # label4
         # 
-        self._label4.BackColor = System.Drawing.Color.RoyalBlue
+        self._label4.BackColor = System.Drawing.Color.FromArgb(192, 255, 255)
         self._label4.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._label4.ForeColor = System.Drawing.Color.White
-        self._label4.Location = System.Drawing.Point(2, 268)
+        self._label4.ForeColor = System.Drawing.Color.Black
+        self._label4.Location = System.Drawing.Point(5, 380)
         self._label4.Name = "label4"
         self._label4.Size = System.Drawing.Size(349, 47)
         self._label4.TabIndex = 28
-        self._label4.Text = "Mass 5.967 × 1024 kg"
+        self._label4.Text = "Mass 8.69 × 1025 kg"
         # 
         # label3
         # 
-        self._label3.BackColor = System.Drawing.Color.RoyalBlue
+        self._label3.BackColor = System.Drawing.Color.FromArgb(192, 255, 255)
         self._label3.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._label3.ForeColor = System.Drawing.Color.White
-        self._label3.Location = System.Drawing.Point(2, 221)
+        self._label3.ForeColor = System.Drawing.Color.Black
+        self._label3.Location = System.Drawing.Point(5, 333)
         self._label3.Name = "label3"
         self._label3.Size = System.Drawing.Size(349, 47)
         self._label3.TabIndex = 27
-        self._label3.Text = "Average distance from the sun 1 AU"
+        self._label3.Text = "Average distance from the sun 19.18 AU"
         # 
         # label2
         # 
-        self._label2.BackColor = System.Drawing.Color.RoyalBlue
+        self._label2.BackColor = System.Drawing.Color.FromArgb(192, 255, 255)
         self._label2.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._label2.ForeColor = System.Drawing.Color.White
-        self._label2.Location = System.Drawing.Point(2, 173)
+        self._label2.ForeColor = System.Drawing.Color.Black
+        self._label2.Location = System.Drawing.Point(5, 285)
         self._label2.Name = "label2"
         self._label2.Size = System.Drawing.Size(284, 242)
         self._label2.TabIndex = 26
-        self._label2.Text = "Type Terrestrial"
+        self._label2.Text = "Type Jovian"
         # 
         # label1
         # 
-        self._label1.BackColor = System.Drawing.Color.RoyalBlue
+        self._label1.BackColor = System.Drawing.Color.FromArgb(192, 255, 255)
         self._label1.Font = System.Drawing.Font("Microsoft Sans Serif", 26.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._label1.ForeColor = System.Drawing.Color.White
-        self._label1.Location = System.Drawing.Point(2, 120)
+        self._label1.ForeColor = System.Drawing.Color.Black
+        self._label1.Location = System.Drawing.Point(5, 232)
         self._label1.Name = "label1"
         self._label1.Size = System.Drawing.Size(349, 295)
         self._label1.TabIndex = 25
-        self._label1.Text = "Earth"
+        self._label1.Text = "Uranus"
         # 
         # Form5
         # 

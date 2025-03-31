@@ -86,27 +86,27 @@ class MainForm(Form):
         # 
         # button5
         # 
-        self._button5.BackColor = System.Drawing.Color.RoyalBlue
+        self._button5.BackColor = System.Drawing.Color.FromArgb(192, 255, 255)
         self._button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         self._button5.Font = System.Drawing.Font("Microsoft Sans Serif", 20.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._button5.Location = System.Drawing.Point(263, 339)
+        self._button5.Location = System.Drawing.Point(42, 334)
         self._button5.Name = "button5"
         self._button5.Size = System.Drawing.Size(191, 64)
         self._button5.TabIndex = 29
-        self._button5.Text = "Neptune"
+        self._button5.Text = "Uranus"
         self._button5.UseVisualStyleBackColor = False
         self._button5.Click += self.Button5Click
         # 
         # button6
         # 
-        self._button6.BackColor = System.Drawing.Color.FromArgb(192, 255, 255)
+        self._button6.BackColor = System.Drawing.Color.RoyalBlue
         self._button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         self._button6.Font = System.Drawing.Font("Microsoft Sans Serif", 20.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._button6.Location = System.Drawing.Point(42, 339)
+        self._button6.Location = System.Drawing.Point(263, 334)
         self._button6.Name = "button6"
         self._button6.Size = System.Drawing.Size(191, 64)
         self._button6.TabIndex = 28
-        self._button6.Text = "Uranus"
+        self._button6.Text = "Neptune"
         self._button6.UseVisualStyleBackColor = False
         self._button6.Click += self.Button6Click
         # 

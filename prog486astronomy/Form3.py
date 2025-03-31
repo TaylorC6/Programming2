@@ -50,7 +50,7 @@ class Form3(Form):
         self._label5.BackColor = System.Drawing.Color.FromArgb(192, 0, 0)
         self._label5.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
         self._label5.ForeColor = System.Drawing.Color.White
-        self._label5.Location = System.Drawing.Point(2, 317)
+        self._label5.Location = System.Drawing.Point(9, 434)
         self._label5.Name = "label5"
         self._label5.Size = System.Drawing.Size(349, 47)
         self._label5.TabIndex = 19
@@ -61,7 +61,7 @@ class Form3(Form):
         self._label4.BackColor = System.Drawing.Color.FromArgb(192, 0, 0)
         self._label4.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
         self._label4.ForeColor = System.Drawing.Color.White
-        self._label4.Location = System.Drawing.Point(2, 270)
+        self._label4.Location = System.Drawing.Point(9, 387)
         self._label4.Name = "label4"
         self._label4.Size = System.Drawing.Size(349, 47)
         self._label4.TabIndex = 18
@@ -72,18 +72,18 @@ class Form3(Form):
         self._label3.BackColor = System.Drawing.Color.FromArgb(192, 0, 0)
         self._label3.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
         self._label3.ForeColor = System.Drawing.Color.White
-        self._label3.Location = System.Drawing.Point(2, 223)
+        self._label3.Location = System.Drawing.Point(9, 340)
         self._label3.Name = "label3"
-        self._label3.Size = System.Drawing.Size(349, 47)
+        self._label3.Size = System.Drawing.Size(362, 47)
         self._label3.TabIndex = 17
-        self._label3.Text = "Average distance from the sun 1 AU"
+        self._label3.Text = "Average distance from the sun 1.5237 AU"
         # 
         # label2
         # 
         self._label2.BackColor = System.Drawing.Color.FromArgb(192, 0, 0)
         self._label2.Font = System.Drawing.Font("Microsoft Sans Serif", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
         self._label2.ForeColor = System.Drawing.Color.White
-        self._label2.Location = System.Drawing.Point(2, 175)
+        self._label2.Location = System.Drawing.Point(9, 292)
         self._label2.Name = "label2"
         self._label2.Size = System.Drawing.Size(284, 242)
         self._label2.TabIndex = 16
@@ -94,9 +94,9 @@ class Form3(Form):
         self._label1.BackColor = System.Drawing.Color.FromArgb(192, 0, 0)
         self._label1.Font = System.Drawing.Font("Microsoft Sans Serif", 26.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
         self._label1.ForeColor = System.Drawing.Color.White
-        self._label1.Location = System.Drawing.Point(2, 122)
+        self._label1.Location = System.Drawing.Point(9, 239)
         self._label1.Name = "label1"
-        self._label1.Size = System.Drawing.Size(349, 295)
+        self._label1.Size = System.Drawing.Size(362, 295)
         self._label1.TabIndex = 15
         self._label1.Text = "Mars"
         # 
