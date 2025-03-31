@@ -183,31 +183,58 @@ class MainForm(Form):
 
 
     def Button3Click(self, sender, e):
-        pass # mars
+        from Form3 import *
+        Form3 = Form3(self)
+        Form3.Show()
+        self.Hide() # mars
 
     def Button1Click(self, sender, e):
-        pass # mercury
+        from Form1 import *
+        Form1 = Form1(self)
+        Form1.Show()
+        self.Hide() # mercury
 
     def Button2Click(self, sender, e):
-        pass # venus
+        from Form2 import *
+        Form2 = Form2(self)
+        Form2.Show()
+        self.Hide() # venus
 
     def Button4Click(self, sender, e):
-        pass # earth
+        from Form4 import *
+        Form4 = Form4(self)
+        Form4.Show()
+        self.Hide() # earth
 
     def Button8Click(self, sender, e):
-        pass # jupiter
+        from Form8 import *
+        Form8 = Form8(self)
+        Form8.Show()
+        self.Hide() # jupiter
 
     def Button7Click(self, sender, e):
-        pass # saturn
+        from Form7 import *
+        Form7 = Form7(self)
+        Form7.Show()
+        self.Hide() # saturn
 
     def Button6Click(self, sender, e):
-        pass # uranus
+        from Form6 import *
+        Form6 = Form6(self)
+        Form6.Show()
+        self.Hide() # uranus
 
     def Button5Click(self, sender, e):
-        pass # neptune
+        from Form5 import *
+        Form5 = Form5(self)
+        Form5.Show()
+        self.Hide() # neptune
 
     def Button10Click(self, sender, e):
-        pass # pluto
+        from Form9 import *
+        Form9 = Form9(self)
+        Form9.Show()
+        self.Hide() # pluto
 
     def Button9Click(self, sender, e):
         Application.Exit()
