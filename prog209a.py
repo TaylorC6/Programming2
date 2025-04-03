@@ -5,9 +5,9 @@ def main():
     try:
         with open("Langdat/prog215a.dat", 'r') as f:
             for line in f:
-                if line < 500:
+                if int(line) < 500:
                     n1 += 1
-                if line >= 500:
+                if int(line) >= 500:
                     n2 += 1
                 n3 += 1
     except OSError as e:
