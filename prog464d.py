@@ -1,0 +1,37 @@
+from random import randint
+
+# Import numpy as np (have to do pip install numpy in the terminal)
+
+
+def print_matrix(mat):
+    for row in mat:
+        for num in row:
+            print(f"{num:3d} ", end="")
+        print()
+
+
+def transpose(mat):
+    mat2 = []
+    for a in (len(mat)):
+        for b in (len(mat)):
+            mat2[a][b] = mat[b][a]
+        print(mat2)
+
+
+def main():
+    mat1 = []
+    for r in range(5):
+        row1 = []
+        for c in range(5):
+            row1.append(randint(-50,99))
+        mat1.append(row1)
+
+    print("Matrix 1:")
+    print_matrix(mat1)
+
+    print("Matrix 2:")
+    transpose(mat1)
+
+
+if __name__ == "__main__":
+    main()
