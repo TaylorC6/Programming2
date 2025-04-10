@@ -1,0 +1,15 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\obj\Debug\net6.0\prog54b.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\obj\Debug\net6.0\prog54b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\obj\Debug\net6.0\prog54b.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\obj\Debug\net6.0\prog54b.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\obj\Debug\net6.0\prog54b.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\bin\Debug\net6.0\prog54b.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\bin\Debug\net6.0\prog54b.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\bin\Debug\net6.0\prog54b.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\bin\Debug\net6.0\prog54b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\bin\Debug\net6.0\ref\prog54b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\bin\Debug\net6.0\prog54b.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\obj\Debug\net6.0\prog54b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\obj\Debug\net6.0\ref\prog54b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\obj\Debug\net6.0\prog54b.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54b\obj\Debug\net6.0\prog54b.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\bin\Debug\net6.0\prog54c.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\bin\Debug\net6.0\prog54c.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\bin\Debug\net6.0\prog54c.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\bin\Debug\net6.0\prog54c.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\bin\Debug\net6.0\ref\prog54c.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\bin\Debug\net6.0\prog54c.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\ref\prog54c.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.genruntimeconfig.cache
