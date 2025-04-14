@@ -1,0 +1,11 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\obj\Debug\prog54a.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\obj\Debug\prog54a.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\obj\Debug\prog54a.Form1.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\obj\Debug\prog54a.Properties.Resources.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\obj\Debug\prog54a.csproj.GenerateResource.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\obj\Debug\prog54a.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\bin\Debug\prog54a.exe.config
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\bin\Debug\prog54a.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\bin\Debug\prog54a.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\obj\Debug\prog54a.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54a\obj\Debug\prog54a.pdb
