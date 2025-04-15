@@ -13,11 +13,11 @@ def main():
                     gpa = float(f.readline())
                     p = Student(fn, ln, gpa)
                     people.append(p)
-                elif num == 2:
+                if num == 2:
                     numStu = int(f.readline())
                     p = Teacher(fn, ln, numStu)
                     people.append(p)
-                elif num == 3:
+                if num == 3:
                     favW = f.readline().strip()
                     p = Admin(fn, ln, favW)
                     people.append(p)
@@ -33,10 +33,10 @@ def main():
                 if isinstance(person, Student):
                     tot += person.gpa
                     cnt += 1
-                if isinstance(person, Teacher):
+                elif isinstance(person, Teacher):
                     totstus += person.numStudents
-                if isinstance(person, Admin):
-                    favW = person.favWord
+                elif isinstance(person, Admin):
+                    favW = person.favW
                     if len(favW) > len(large):
                         large = favW
                     if len(favW) < len(sm):

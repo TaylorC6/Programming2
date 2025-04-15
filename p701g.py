@@ -14,12 +14,12 @@ class Student(Person):
 
 
 class Teacher(Person):
-    def __init__(self, fn, lb, numStu):
+    def __init__(self, fn, ln, numStu):
         super().__init__(fn, ln)
         self.numStudents = numStu
 
 
 class Admin(Person):
-    def __init__(self, fn, lb, favW):
+    def __init__(self, fn, ln, favW):
         super().__init__(fn, ln)
         self.favW = favW

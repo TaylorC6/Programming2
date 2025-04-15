@@ -1,0 +1,14 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\obj\Debug\net6.0\prog88a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\obj\Debug\net6.0\prog88a.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\obj\Debug\net6.0\prog88a.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\obj\Debug\net6.0\prog88a.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\bin\Debug\net6.0\prog88a.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\bin\Debug\net6.0\prog88a.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\bin\Debug\net6.0\prog88a.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\bin\Debug\net6.0\prog88a.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\bin\Debug\net6.0\ref\prog88a.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\bin\Debug\net6.0\prog88a.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\obj\Debug\net6.0\prog88a.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\obj\Debug\net6.0\ref\prog88a.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\obj\Debug\net6.0\prog88a.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog88a\obj\Debug\net6.0\prog88a.genruntimeconfig.cache
