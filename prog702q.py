@@ -10,19 +10,19 @@ class Vehicles:
 class Car(Vehicles):
     def __init__(self, name, num_tires, worth):
         super().__init__(name, num_tires)
-        self.gpa = worth
+        self.worth = worth
 
 
-class Teacher(Person):
-    def __init__(self, fn, ln, numStu):
-        super().__init__(fn, ln)
-        self.numStudents = numStu
+class Truck(Vehicles):
+    def __init__(self, name, num_tires, miles):
+        super().__init__(name, num_tires)
+        self.miles = miles
 
 
-class Admin(Person):
-    def __init__(self, fn, ln, favW):
-        super().__init__(fn, ln)
-        self.favW = favW
+class Bus(Vehicles):
+    def __init__(self, name, num_tires, home):
+        super().__init__(name, num_tires)
+        self.home = home
 
 
 def main():
@@ -31,19 +31,19 @@ def main():
         with open("Langdat/prog701g.dat", 'r') as f:
             num = int(f.readline())
             while num != 99:
-                fn = f.readline()
-                ln = f.readline()
+                name = f.readline()
+                num_tires = f.readline()
                 if num == 1:
-                    gpa = float(f.readline())
-                    p = Student(fn, ln, gpa)
+                    worth = float(f.readline())
+                    p = Vehicles(name, num_tires, worth)
                     people.append(p)
                 if num == 2:
-                    numStu = int(f.readline())
-                    p = Teacher(fn, ln, numStu)
+                    miles = int(f.readline())
+                    p = Vehicles(name, num_tires, miles)
                     people.append(p)
                 if num == 3:
                     favW = f.readline().strip()
-                    p = Admin(fn, ln, favW)
+                    p = Admin(name, num_tires, favW)
                     people.append(p)
                 num = int(f.readline())
 
@@ -55,10 +55,10 @@ def main():
 
             for person in people:
                 if isinstance(person, Student):
-                    tot += person.gpa
+                    tot += person.worth
                     cnt += 1
-                elif isinstance(person, Teacher):
-                    totstus += person.numStudents
+                elif isinstance(person, Vehicles):
+                    totstus += person.miles
                 elif isinstance(person, Admin):
                     favW = person.favW
                     if len(favW) > len(large):
