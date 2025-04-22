@@ -12,8 +12,8 @@ def print_matrix(mat):
 
 def transpose(mat):
     mat2 = []
-    for a in (len(mat)):
-        for b in (len(mat)):
+    for a in (5):
+        for b in (5):
             mat2[a][b] = mat[b][a]
         print(mat2)
 
