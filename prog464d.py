@@ -11,11 +11,16 @@ def print_matrix(mat):
 
 
 def transpose(mat):
-    mat2 = []
-    for a in (5):
-        for b in (5):
-            mat2[a][b] = mat[b][a]
-        print(mat2)
+    mat2 = mat
+    n = 0
+    for a in range(5):
+        for b in range(n):
+            temp = mat[a][b]
+            mat[a][b] = mat[b][a]
+            mat[b][a] = temp
+        n += 1
+    print_matrix(mat)
+
 
 
 def main():
@@ -23,7 +28,7 @@ def main():
     for r in range(5):
         row1 = []
         for c in range(5):
-            row1.append(randint(-50,99))
+            row1.append(randint(-50, 99))
         mat1.append(row1)
 
     print("Matrix 1:")

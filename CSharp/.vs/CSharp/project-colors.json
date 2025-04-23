@@ -35,7 +35,17 @@
       "ProjectGuid": "9ea320fd-60b3-4858-8cd5-50a8b127de9d",
       "DisplayName": "prog88a",
       "ColorIndex": 6
+    },
+    "5907e7e9-4fa2-4d30-888e-d1309c79affd": {
+      "ProjectGuid": "5907e7e9-4fa2-4d30-888e-d1309c79affd",
+      "DisplayName": "LP4-5",
+      "ColorIndex": 7
+    },
+    "1727971b-5ee5-4352-aa0b-2396f8c8d79f": {
+      "ProjectGuid": "1727971b-5ee5-4352-aa0b-2396f8c8d79f",
+      "DisplayName": "LP4-1",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 9
 }
