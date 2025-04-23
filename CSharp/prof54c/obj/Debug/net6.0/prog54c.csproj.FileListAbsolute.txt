@@ -12,3 +12,4 @@ C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.
 C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\ref\prog54c.dll
 C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.pdb
 C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.genruntimeconfig.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prof54c\obj\Debug\net6.0\prog54c.csproj.AssemblyReference.cache

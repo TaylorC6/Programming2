@@ -1,0 +1,5 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.csproj.CoreCompileInputs.cache
