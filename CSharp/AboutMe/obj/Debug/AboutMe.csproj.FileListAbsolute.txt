@@ -1,0 +1,11 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\bin\Debug\AboutMe.exe.config
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\bin\Debug\AboutMe.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\bin\Debug\AboutMe.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\obj\Debug\AboutMe.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\obj\Debug\AboutMe.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\obj\Debug\AboutMe.Form1.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\obj\Debug\AboutMe.Properties.Resources.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\obj\Debug\AboutMe.csproj.GenerateResource.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\obj\Debug\AboutMe.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\obj\Debug\AboutMe.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\AboutMe\obj\Debug\AboutMe.pdb

@@ -3,3 +3,13 @@ C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.
 C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.AssemblyInfoInputs.cache
 C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.AssemblyInfo.cs
 C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\bin\Debug\net6.0\prog54d.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\bin\Debug\net6.0\prog54d.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\bin\Debug\net6.0\prog54d.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\bin\Debug\net6.0\prog54d.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\bin\Debug\net6.0\ref\prog54d.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\bin\Debug\net6.0\prog54d.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\ref\prog54d.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog54d\obj\Debug\net6.0\prog54d.genruntimeconfig.cache
