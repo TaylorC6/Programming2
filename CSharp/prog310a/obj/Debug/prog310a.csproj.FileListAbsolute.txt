@@ -1,0 +1,10 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog310a\obj\Debug\prog310a.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog310a\obj\Debug\prog310a.Form1.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog310a\obj\Debug\prog310a.Properties.Resources.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog310a\obj\Debug\prog310a.csproj.GenerateResource.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog310a\obj\Debug\prog310a.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog310a\bin\Debug\prog310a.exe.config
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog310a\bin\Debug\prog310a.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog310a\bin\Debug\prog310a.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog310a\obj\Debug\prog310a.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog310a\obj\Debug\prog310a.pdb
