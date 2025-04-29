@@ -1,0 +1,11 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\bin\Debug\prog85c.exe.config
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\bin\Debug\prog85c.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\bin\Debug\prog85c.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\obj\Debug\prog85c.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\obj\Debug\prog85c.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\obj\Debug\prog85c.Form1.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\obj\Debug\prog85c.Properties.Resources.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\obj\Debug\prog85c.csproj.GenerateResource.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\obj\Debug\prog85c.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\obj\Debug\prog85c.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog85c\obj\Debug\prog85c.pdb

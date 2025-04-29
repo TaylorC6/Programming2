@@ -70,7 +70,12 @@
       "ProjectGuid": "2554c00a-4498-4686-bbd7-8c84977db18d",
       "DisplayName": "prog310a",
       "ColorIndex": 12
+    },
+    "c6108733-78ce-44de-8b9b-a2ae9527dd21": {
+      "ProjectGuid": "c6108733-78ce-44de-8b9b-a2ae9527dd21",
+      "DisplayName": "prog535CatchMe",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
