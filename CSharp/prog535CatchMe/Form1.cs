@@ -17,7 +17,7 @@ namespace prog535CatchMe {
         private void button1_Click(object sender, EventArgs e) {
 
             string[] strCaption = { "Click Here", "Try Harder", "Too Slow", "Try Again", 
-            "Not Even Close"};
+            "Not Even Close", "I'm over here"};
 
             Random rand = new Random();
 
