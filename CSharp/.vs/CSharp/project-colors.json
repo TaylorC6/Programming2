@@ -75,7 +75,17 @@
       "ProjectGuid": "c6108733-78ce-44de-8b9b-a2ae9527dd21",
       "DisplayName": "prog535CatchMe",
       "ColorIndex": 13
+    },
+    "d5faed9f-3377-47a5-8116-d62340da534e": {
+      "ProjectGuid": "d5faed9f-3377-47a5-8116-d62340da534e",
+      "DisplayName": "CalcWithFunctions",
+      "ColorIndex": 14
+    },
+    "9d28de71-c37a-4070-9684-e3d5b865a40f": {
+      "ProjectGuid": "9d28de71-c37a-4070-9684-e3d5b865a40f",
+      "DisplayName": "pg435TicketSales",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 0
 }

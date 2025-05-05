@@ -1,0 +1,15 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\bin\Debug\net6.0\CalcWithFunctions.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\bin\Debug\net6.0\CalcWithFunctions.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\bin\Debug\net6.0\CalcWithFunctions.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\bin\Debug\net6.0\CalcWithFunctions.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\bin\Debug\net6.0\ref\CalcWithFunctions.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\bin\Debug\net6.0\CalcWithFunctions.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\obj\Debug\net6.0\ref\CalcWithFunctions.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\CalcWithFunctions\obj\Debug\net6.0\CalcWithFunctions.genruntimeconfig.cache
