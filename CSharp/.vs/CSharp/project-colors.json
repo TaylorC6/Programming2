@@ -85,7 +85,12 @@
       "ProjectGuid": "9d28de71-c37a-4070-9684-e3d5b865a40f",
       "DisplayName": "pg435TicketSales",
       "ColorIndex": 15
+    },
+    "82a15e67-1a41-477b-8ee1-396ac72584b2": {
+      "ProjectGuid": "82a15e67-1a41-477b-8ee1-396ac72584b2",
+      "DisplayName": "prog366b",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 1
 }

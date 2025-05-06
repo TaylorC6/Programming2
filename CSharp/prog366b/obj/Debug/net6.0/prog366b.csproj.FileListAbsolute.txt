@@ -1,0 +1,14 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\obj\Debug\net6.0\prog366b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\obj\Debug\net6.0\prog366b.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\obj\Debug\net6.0\prog366b.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\obj\Debug\net6.0\prog366b.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\bin\Debug\net6.0\prog366b.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\bin\Debug\net6.0\prog366b.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\bin\Debug\net6.0\prog366b.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\bin\Debug\net6.0\prog366b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\bin\Debug\net6.0\ref\prog366b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\bin\Debug\net6.0\prog366b.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\obj\Debug\net6.0\prog366b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\obj\Debug\net6.0\ref\prog366b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\obj\Debug\net6.0\prog366b.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog366b\obj\Debug\net6.0\prog366b.genruntimeconfig.cache
