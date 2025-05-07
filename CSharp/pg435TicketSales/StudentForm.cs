@@ -24,5 +24,27 @@ namespace pg435TicketSales {
         private void StudentForm_FormClosing(object sender, FormClosingEventArgs e) {
             this.Parent.Show();
         }
+
+        private void label3_Click(object sender, EventArgs e) {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e) {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e) {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e) {
+            int num = int.Parse(textBox4.Text);
+            decimal ticket_cost = (decimal)num * 7;
+            decimal sales_tax = (decimal)num * 0.06m;
+            decimal total = ticket_cost + sales_tax;
+            label10.Text = ticket_cost.ToString();
+            label8.Text = sales_tax.ToString();
+            label9.Text = total.ToString();
+        }
     }
 }

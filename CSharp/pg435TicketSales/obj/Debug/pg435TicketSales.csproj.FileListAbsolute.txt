@@ -1,0 +1,8 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg435TicketSales\obj\Debug\pg435TicketSales.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg435TicketSales\obj\Debug\pg435TicketSales.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg435TicketSales\obj\Debug\pg435TicketSales.Form1.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg435TicketSales\obj\Debug\pg435TicketSales.generalForm.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg435TicketSales\obj\Debug\pg435TicketSales.Properties.Resources.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg435TicketSales\obj\Debug\pg435TicketSales.StudentForm.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg435TicketSales\obj\Debug\pg435TicketSales.csproj.GenerateResource.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg435TicketSales\obj\Debug\pg435TicketSales.csproj.CoreCompileInputs.cache
