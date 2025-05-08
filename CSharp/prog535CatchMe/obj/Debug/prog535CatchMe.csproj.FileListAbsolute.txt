@@ -1,0 +1,6 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog535CatchMe\obj\Debug\prog535CatchMe.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog535CatchMe\obj\Debug\prog535CatchMe.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog535CatchMe\obj\Debug\prog535CatchMe.Form1.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog535CatchMe\obj\Debug\prog535CatchMe.Properties.Resources.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog535CatchMe\obj\Debug\prog535CatchMe.csproj.GenerateResource.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog535CatchMe\obj\Debug\prog535CatchMe.csproj.CoreCompileInputs.cache

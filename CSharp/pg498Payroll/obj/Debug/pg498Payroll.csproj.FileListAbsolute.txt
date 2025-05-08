@@ -1,0 +1,11 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\bin\Debug\pg498Payroll.exe.config
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\bin\Debug\pg498Payroll.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\bin\Debug\pg498Payroll.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\obj\Debug\pg498Payroll.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\obj\Debug\pg498Payroll.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\obj\Debug\pg498Payroll.Form1.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\obj\Debug\pg498Payroll.Properties.Resources.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\obj\Debug\pg498Payroll.csproj.GenerateResource.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\obj\Debug\pg498Payroll.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\obj\Debug\pg498Payroll.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg498Payroll\obj\Debug\pg498Payroll.pdb

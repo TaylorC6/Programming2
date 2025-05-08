@@ -95,7 +95,12 @@
       "ProjectGuid": "0ce76f11-7efb-4623-a0dd-149bcab697e0",
       "DisplayName": "pg347",
       "ColorIndex": 1
+    },
+    "478addd2-caf4-43da-b314-c15ef06e3ef9": {
+      "ProjectGuid": "478addd2-caf4-43da-b314-c15ef06e3ef9",
+      "DisplayName": "pg498Payroll",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
