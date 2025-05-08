@@ -19,11 +19,12 @@ namespace pg435TicketSales {
         private void button1_Click(object sender, EventArgs e) {
             // this.Parent.Show();
             myParent.Show();
-            this.Close();
+            this.Hide();
         }
 
         private void generalForm_FormClosing(object sender, FormClosingEventArgs e) {
-            this.Parent.Show();
+            this.myParent.Show();
+            this.Hide();
         }
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e) {
@@ -46,6 +47,22 @@ namespace pg435TicketSales {
 
         }
 
-        // TODO: decimal taxrate/calctax
+        private void button2_Click(object sender, EventArgs e) {
+            int price = 0;
+            if (radioButton1.Checked) {
+                price = 20;
+            } else if (radioButton2.Checked) {
+                price = 15;
+            } else if (radioButton3.Checked) {
+                price = 10;
+            }
+            int num = int.Parse(textBox4.Text);
+            decimal ticket_cost = (decimal)num * price;
+            decimal sales_tax = (decimal)num * 0.06m;
+            decimal total = ticket_cost + sales_tax;
+            label10.Text = ticket_cost.ToString("$.00");
+            label8.Text = sales_tax.ToString("$.00");
+            label9.Text = total.ToString("$.00");
+        }
     }
 }

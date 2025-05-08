@@ -13,10 +13,11 @@ namespace pg435TicketSales {
 
         public Form1() {
             InitializeComponent();
+
         }
 
         private void button1_Click(object sender, EventArgs e) {
-            Form frm = new StudentForm();
+            Form frm = new StudentForm(this);
             frm.Show();
             this.Hide();
         }

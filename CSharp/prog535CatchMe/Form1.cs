@@ -20,7 +20,15 @@ namespace prog535CatchMe {
             "Not Even Close", "I'm over here"};
 
             Random rand = new Random();
+        }
+        private void btn_catch_click(object sender, EventArgs e) {
+            MessageBox.Show("You Got Me!", "", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            Application.Exit();
+        }
 
+        private void button1_MouseEnter(object sender, EventArgs e) {
+            int intIndex = rand.Next(strCaption.Length);
+            
         }
     }
 }
