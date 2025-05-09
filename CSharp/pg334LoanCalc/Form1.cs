@@ -19,7 +19,13 @@ namespace pg334LoanCalc {
         }
 
         private void button2_Click(object sender, EventArgs e) {
-
+            listBox1.Text = "";
+            textBox1.Text = "";
+            textBox2.Text = "";
+            textBox3.Text = "";
+            textBox4.Text = "";
+            radioButton1.Checked = false;
+            radioButton2.Checked = false;
         }
 
         private void button3_Click(object sender, EventArgs e) {
