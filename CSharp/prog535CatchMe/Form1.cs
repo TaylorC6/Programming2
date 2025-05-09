@@ -28,7 +28,9 @@ namespace prog535CatchMe {
 
         private void button1_MouseEnter(object sender, EventArgs e) {
             int intIndex = rand.Next(strCaption.Length);
-            
+            button1.Text = strCaption[intIndex];
+            button1.Left = rand.Next(this.Width - button1.Width);
+            button1.Top = rand.Next(this.Height - button1.Height);
         }
     }
 }
