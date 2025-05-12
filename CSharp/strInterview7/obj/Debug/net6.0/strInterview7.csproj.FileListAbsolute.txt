@@ -1,0 +1,15 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\bin\Debug\net6.0\strInterview7.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\bin\Debug\net6.0\strInterview7.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\bin\Debug\net6.0\strInterview7.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\bin\Debug\net6.0\strInterview7.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\bin\Debug\net6.0\ref\strInterview7.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\bin\Debug\net6.0\strInterview7.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\obj\Debug\net6.0\strInterview7.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\obj\Debug\net6.0\strInterview7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\obj\Debug\net6.0\strInterview7.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\obj\Debug\net6.0\strInterview7.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\obj\Debug\net6.0\strInterview7.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\obj\Debug\net6.0\strInterview7.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\obj\Debug\net6.0\ref\strInterview7.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\obj\Debug\net6.0\strInterview7.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInterview7\obj\Debug\net6.0\strInterview7.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\bin\Debug\net6.0\strInt16.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\bin\Debug\net6.0\strInt16.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\bin\Debug\net6.0\strInt16.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\bin\Debug\net6.0\strInt16.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\bin\Debug\net6.0\ref\strInt16.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\bin\Debug\net6.0\strInt16.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\obj\Debug\net6.0\strInt16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\obj\Debug\net6.0\strInt16.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\obj\Debug\net6.0\strInt16.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\obj\Debug\net6.0\strInt16.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\obj\Debug\net6.0\strInt16.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\obj\Debug\net6.0\ref\strInt16.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\obj\Debug\net6.0\strInt16.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\strInt16\obj\Debug\net6.0\strInt16.genruntimeconfig.cache

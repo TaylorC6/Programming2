@@ -1,0 +1,14 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\bin\Debug\net6.0\prog122b.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\bin\Debug\net6.0\prog122b.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\bin\Debug\net6.0\prog122b.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\bin\Debug\net6.0\prog122b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\bin\Debug\net6.0\ref\prog122b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\bin\Debug\net6.0\prog122b.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\obj\Debug\net6.0\prog122b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\obj\Debug\net6.0\prog122b.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\obj\Debug\net6.0\prog122b.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\obj\Debug\net6.0\prog122b.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\obj\Debug\net6.0\prog122b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\obj\Debug\net6.0\ref\prog122b.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\obj\Debug\net6.0\prog122b.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\prog122b\obj\Debug\net6.0\prog122b.genruntimeconfig.cache

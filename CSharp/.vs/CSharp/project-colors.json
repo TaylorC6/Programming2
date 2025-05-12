@@ -100,7 +100,27 @@
       "ProjectGuid": "478addd2-caf4-43da-b314-c15ef06e3ef9",
       "DisplayName": "pg498Payroll",
       "ColorIndex": 2
+    },
+    "b98f81ae-0c59-4a3f-b992-d0b29d7f967b": {
+      "ProjectGuid": "b98f81ae-0c59-4a3f-b992-d0b29d7f967b",
+      "DisplayName": "pg334LoanCalc",
+      "ColorIndex": 3
+    },
+    "34020ce2-efa8-480a-b0cd-dfeeff460918": {
+      "ProjectGuid": "34020ce2-efa8-480a-b0cd-dfeeff460918",
+      "DisplayName": "strInterview7",
+      "ColorIndex": 4
+    },
+    "26850743-9cec-4068-8938-ce1cddeef17a": {
+      "ProjectGuid": "26850743-9cec-4068-8938-ce1cddeef17a",
+      "DisplayName": "strInt16",
+      "ColorIndex": 5
+    },
+    "7cbae7bf-294d-41d1-a4dd-93f7a1ee9ccd": {
+      "ProjectGuid": "7cbae7bf-294d-41d1-a4dd-93f7a1ee9ccd",
+      "DisplayName": "prog122b",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 7
 }
