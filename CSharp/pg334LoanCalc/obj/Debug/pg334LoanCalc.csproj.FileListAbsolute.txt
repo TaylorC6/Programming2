@@ -1,0 +1,11 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\bin\Debug\pg334LoanCalc.exe.config
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\bin\Debug\pg334LoanCalc.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\bin\Debug\pg334LoanCalc.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\obj\Debug\pg334LoanCalc.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\obj\Debug\pg334LoanCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\obj\Debug\pg334LoanCalc.Form1.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\obj\Debug\pg334LoanCalc.Properties.Resources.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\obj\Debug\pg334LoanCalc.csproj.GenerateResource.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\obj\Debug\pg334LoanCalc.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\obj\Debug\pg334LoanCalc.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg334LoanCalc\obj\Debug\pg334LoanCalc.pdb

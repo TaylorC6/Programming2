@@ -120,7 +120,22 @@
       "ProjectGuid": "7cbae7bf-294d-41d1-a4dd-93f7a1ee9ccd",
       "DisplayName": "prog122b",
       "ColorIndex": 6
+    },
+    "1bc0336d-9ca6-4a14-adbd-798e10087495": {
+      "ProjectGuid": "1bc0336d-9ca6-4a14-adbd-798e10087495",
+      "DisplayName": "listDemo",
+      "ColorIndex": 7
+    },
+    "c4c45473-423c-4156-9d52-bbce38311a35": {
+      "ProjectGuid": "c4c45473-423c-4156-9d52-bbce38311a35",
+      "DisplayName": "pg273MassAndWeight",
+      "ColorIndex": 8
+    },
+    "484b3e9d-542e-40ff-a5b8-d59d5c858a8f": {
+      "ProjectGuid": "484b3e9d-542e-40ff-a5b8-d59d5c858a8f",
+      "DisplayName": "ProgrammingII-Final",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 10
 }

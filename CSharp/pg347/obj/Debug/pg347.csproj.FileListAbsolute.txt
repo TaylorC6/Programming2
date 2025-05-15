@@ -1,0 +1,10 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg347\bin\Debug\pg347.exe.config
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg347\bin\Debug\pg347.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg347\bin\Debug\pg347.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg347\obj\Debug\pg347.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg347\obj\Debug\pg347.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg347\obj\Debug\pg347.Properties.Resources.resources
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg347\obj\Debug\pg347.csproj.GenerateResource.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg347\obj\Debug\pg347.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg347\obj\Debug\pg347.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg347\obj\Debug\pg347.pdb

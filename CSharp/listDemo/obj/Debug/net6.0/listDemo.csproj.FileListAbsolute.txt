@@ -1,0 +1,14 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\obj\Debug\net6.0\listDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\obj\Debug\net6.0\listDemo.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\obj\Debug\net6.0\listDemo.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\obj\Debug\net6.0\listDemo.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\bin\Debug\net6.0\listDemo.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\bin\Debug\net6.0\listDemo.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\bin\Debug\net6.0\listDemo.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\bin\Debug\net6.0\listDemo.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\bin\Debug\net6.0\ref\listDemo.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\bin\Debug\net6.0\listDemo.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\obj\Debug\net6.0\listDemo.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\obj\Debug\net6.0\ref\listDemo.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\obj\Debug\net6.0\listDemo.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\listDemo\obj\Debug\net6.0\listDemo.genruntimeconfig.cache

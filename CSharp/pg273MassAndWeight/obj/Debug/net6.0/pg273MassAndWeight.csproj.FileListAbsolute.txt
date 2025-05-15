@@ -1,0 +1,15 @@
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\obj\Debug\net6.0\pg273MassAndWeight.csproj.AssemblyReference.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\obj\Debug\net6.0\pg273MassAndWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\obj\Debug\net6.0\pg273MassAndWeight.AssemblyInfoInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\obj\Debug\net6.0\pg273MassAndWeight.AssemblyInfo.cs
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\obj\Debug\net6.0\pg273MassAndWeight.csproj.CoreCompileInputs.cache
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\bin\Debug\net6.0\pg273MassAndWeight.exe
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\bin\Debug\net6.0\pg273MassAndWeight.deps.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\bin\Debug\net6.0\pg273MassAndWeight.runtimeconfig.json
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\bin\Debug\net6.0\pg273MassAndWeight.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\bin\Debug\net6.0\ref\pg273MassAndWeight.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\bin\Debug\net6.0\pg273MassAndWeight.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\obj\Debug\net6.0\pg273MassAndWeight.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\obj\Debug\net6.0\ref\pg273MassAndWeight.dll
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\obj\Debug\net6.0\pg273MassAndWeight.pdb
+C:\Users\cahill.t1\Desktop\Programming2\CSharp\pg273MassAndWeight\obj\Debug\net6.0\pg273MassAndWeight.genruntimeconfig.cache
